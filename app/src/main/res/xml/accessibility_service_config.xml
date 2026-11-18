@@ -5,4 +5,4 @@
     android:notificationTimeout="50"
     android:canPerformGestures="true"
     android:canRetrieveWindowContent="false"
-    android:description="Runs a user-scheduled tap at the selected screen coordinates." />
+    android:description="@string/accessibility_service_description" />
